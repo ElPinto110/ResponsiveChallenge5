@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://https://www.figma.com/file/V54IlNKiwuhr7xc7asyJrO/My-gallery-master?node-id=0%3A1&t=OFWgj16tK1MoBkSL-1">
+    <a href="https://www.figma.com/file/V54IlNKiwuhr7xc7asyJrO/My-gallery-master?node-id=0%3A1&t=OFWgj16tK1MoBkSL-1">
       Demo
     </a>
     <span> | </span>
