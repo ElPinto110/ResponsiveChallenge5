@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://https://www.figma.com/file/V54IlNKiwuhr7xc7asyJrO/My-gallery-master?node-id=0%3A1&t=OFWgj16tK1MoBkSL-1">
       Demo
     </a>
     <span> | </span>
@@ -71,5 +71,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@your-username](https://github.com/ElPinto110)
+- Twitter [@your-twitter](https://twitter.com/victorjosepint1)
